@@ -1,3 +1,4 @@
+<br>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a7bf5d08-eebe-4e76-9e5a-00cf1188c027" alt="Component 1">
 </div>
@@ -6,6 +7,8 @@
 #
 
 <!--About Me-->
+
+<br>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e15529a6-4d0a-4290-a625-87ecd4a7acb1" alt="Component 1">
@@ -22,6 +25,8 @@
 #
 
 <!--Stack-->
+
+<br>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e5c76a28-e210-4763-b490-fad9edc1ba0b" alt="Component 1">
