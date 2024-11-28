@@ -8,6 +8,17 @@
   <img src="https://github.com/user-attachments/assets/e06b7182-338b-4f7b-be04-b26b670f76ad" alt="Component 1">
 </div>
 
+- 🌱 I’m currently learning **Web Development** 🌐, **App Development** 📱, **Game Modding** 🎮, **Mobile App Development** 📱, and **Game Engines** 🎲 like *Unity* and *Unreal Engine*.
+- 🔭 I’m working on **open-source projects**.
+- 🎮 In my free time, I love playing **video games**, **coding** and exploring **new technologies**.
+
+#
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/fae88db2-2360-4a9d-92f2-fcb8a077e4d7" alt="Component 1">
+</div>
+
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Swino4ka&show_icons=true&theme=radical"></img>
 </div>
