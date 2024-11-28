@@ -15,11 +15,13 @@
 </div>
 
 <br>
-<h4>
+<h3>
 - 🌱 I’m currently learning **Web Development** 🌐, **App Development** 📱, **Game Modding** 🎮, **Mobile App Development** 📱, and **Game Engines** 🎲 like *Unity* and *Unreal Engine*.
+  <br>
 - 🔭 I’m working on **open-source projects**.
+  <br>
 - 🎮 In my free time, I love playing **video games**, **coding** and exploring **new technologies**.
-</h4>
+</h3>
 <br>
 
 #
