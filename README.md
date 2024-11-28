@@ -1,5 +1,3 @@
-# Welcome to my GitHub!
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/502da61a-4cd9-47c7-bdda-48066d9600d6" alt="Component 1">
 </div>
