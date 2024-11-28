@@ -82,6 +82,7 @@
   <img src="https://github.com/user-attachments/assets/97cca79c-86b9-4d11-aad8-d71a3566d186" alt="Component 1">
 </div>
 <!--Socials-->
+<br>
 <p align="center">
   <a href="https://discord.com/users/472393576010088449" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
