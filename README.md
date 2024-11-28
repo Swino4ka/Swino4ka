@@ -17,6 +17,8 @@
 - 🔭 I’m working on **open-source projects**.
 - 🎮 In my free time, I love playing **video games**, **coding** and exploring **new technologies**.
 
+<br>
+
 #
 
 <!--Stack-->
@@ -24,6 +26,8 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e5c76a28-e210-4763-b490-fad9edc1ba0b" alt="Component 1">
 </div>
+
+<br>
 
 #### 🌐 **Frontend Development**
 <p>
@@ -61,6 +65,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
 
+<br>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Swino4ka&show_icons=true&theme=radical"></img>
