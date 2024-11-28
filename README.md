@@ -4,6 +4,8 @@
 
 #
 
+<!--About Me-->
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e15529a6-4d0a-4290-a625-87ecd4a7acb1" alt="Component 1">
 </div>
@@ -16,9 +18,18 @@
 
 #
 
+<!--Stack-->
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e5c76a28-e210-4763-b490-fad9edc1ba0b" alt="Component 1">
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&color=2496ED" alt="Docker">
+  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&color=FCC624" alt="Linux">
+</p>
 
 
 <div align="center">
