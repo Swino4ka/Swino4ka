@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>I love html!</h1>
+    https://github-readme-stats.vercel.app/api?username=ваш_никнейм&show_icons=true&theme=radical
 </body>
 </html>
