@@ -5,8 +5,10 @@
 #
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/e06b7182-338b-4f7b-be04-b26b670f76ad" alt="Component 1">
+  <img src="https://github.com/user-attachments/assets/b4cf3c96-175d-434b-936e-27691d3e1742" alt="Component 1">
 </div>
+
+
 
 - 🌱 I’m currently learning **Web Development** 🌐, **App Development** 📱, **Game Modding** 🎮, **Mobile App Development** 📱, and **Game Engines** 🎲 like *Unity* and *Unreal Engine*.
 - 🔭 I’m working on **open-source projects**.
