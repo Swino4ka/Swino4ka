@@ -75,6 +75,10 @@
 #
 
 <!---->
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/Swino4ka.Swino4ka" alt="Profile Views">
+</p>
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Swino4ka&show_icons=true&theme=radical"></img>
 </div>
