@@ -1,7 +1,7 @@
 <style>
 
 a:hover {
-  opacity: 0;
+  opacity: 1;
 }
   
 </style>
