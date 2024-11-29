@@ -116,9 +116,10 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Swino4ka&show_icons=true&theme=radical"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swino4ka&layout=compact&theme=radical" alt="Top Languages">
 </div>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swino4ka&layout=compact&theme=radical" alt="Top Languages">
+  
 </p>
 
 #
