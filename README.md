@@ -1,11 +1,3 @@
-<style>
-
-a:hover {
-  opacity: 1;
-}
-  
-</style>
-
 #
 
 <br><br><br><br><br>
