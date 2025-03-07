@@ -17,11 +17,11 @@
 </div>
 
 <br>
-- 🌱 I’m currently learning **Web Development** 🌐, **App Development** 📱, **Game Modding** 🎮, **Mobile App Development** 📱, and **Game Engines** 🎲 like *Unity* and *Unreal Engine*.
+- 🌱 I’m currently learning Web Development 🌐, App Development 📱, Game Modding 🎮, Mobile App Development 📱, and Game Engines 🎲 like Unity and Unreal Engine.
   <br><br>
-- 🔭 I’m working on **open-source projects**.
+- 🔭 I’m working on open-source projects.
   <br><br>
-- 🎮 In my free time, I love playing **video games**, **coding** and exploring **new technologies**.
+- 🎮 In my free time, I love playing video games, coding and exploring new technologies.
 <br>
 
 #
@@ -36,7 +36,7 @@
 
 <br>
 
-#### 🌐 **Frontend Development**
+#### 🌐 Frontend Development
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
 
-#### 💻 **Backend Development**
+#### 💻 Backend Development
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
@@ -59,14 +59,14 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
 
-#### 🖥️ **Operating Systems**
+#### 🖥️ Operating Systems
 <p>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox">
 </p>
 
-#### 🛠️ **Programming Languages**
+#### 🛠️ Programming Languages
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
