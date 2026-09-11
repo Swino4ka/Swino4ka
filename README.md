@@ -17,11 +17,7 @@
 </div>
 
 <br>
-- 🌱 I’m currently learning Web Development 🌐, App Development 📱, Game Modding 🎮, Mobile App Development 📱, and Game Engines 🎲 like Unity and Unreal Engine.
-  <br><br>
-- 🔭 I’m working on open-source projects.
-  <br><br>
-- 🎮 In my free time, I love playing video games, coding and exploring new technologies.
+I’m currently learning Web Development, App Development, Game Modding, Mobile App Development, and Game Engines like Unity and Unreal Engine. I’m working on open-source projects. In my free time, I love playing video games, coding and exploring new technologies.
 <br>
 
 #
